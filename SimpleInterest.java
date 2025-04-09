@@ -12,7 +12,7 @@ public class SimpleInterest {
         double time = sc.nextDouble();
         double interest = (principal * rate * time) / 100;
         System.out.println("Simple Interest: " + interest);
-        System.out.println("this is master branch");
+        System.out.println("This is master branch");
     }
 
 }
